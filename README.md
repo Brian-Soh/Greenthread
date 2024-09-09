@@ -19,3 +19,11 @@ So far I've:
 - Designed intuitive user interfaces using XML layouts to enhance the user experience and ensure smooth navigation across various activities and fragments
 - Implemented the QR code scanner created during the hackathon.
 - Integrated a custom Adapter object to allow for filtered searching through data passed in an activity.
+
+##Further Development
+There are still steps required before the minimal viable product is achieve.
+
+Required implementations include:
+- Linking either a NoSQL or SQL database containing the data pertaining to each clothing brand and article of clothing
+- Narrowing the functionality of the QR code scanner to only consider codes that link to articles of clothing included in the database
+- Developing the filter by keyword functionality with the search bar
