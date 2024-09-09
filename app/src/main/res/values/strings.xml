@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Greenthread</string>
+    <string name="discover_sustainability">Discover Sustainability 🌱</string>
+    <string name="search_brands">Search Brands</string>
+    <string name="greenthread">greenthread</string>
+    <string name="scan_item">Scan Item</string>
+    <string name="add_remove_filter">Add/Remove Filter</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="back_button">back button</string>
+</resources>
