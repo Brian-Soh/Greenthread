@@ -20,7 +20,7 @@ So far I've:
 - Implemented the QR code scanner created during the hackathon.
 - Integrated a custom Adapter object to allow for filtered searching through data passed in an activity.
 
-##Further Development
+## Further Development
 There are still steps required before the minimal viable product is achieve.
 
 Required implementations include:
