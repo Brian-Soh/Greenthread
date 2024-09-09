@@ -1,6 +1,6 @@
 # Greenthread
 
-## Discover Sustainability
+## Discover Sustainability 🌱
 Greenthread is an application built on the fundamentals of environmental sustainability with a focus on transparency 
 in the clothing industry. 
 
