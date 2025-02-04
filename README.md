@@ -2,7 +2,7 @@
 
 ## Discover Sustainability 🌱
 Greenthread is an application built on the fundamentals of environmental sustainability with a focus on transparency 
-in the clothing industry. 
+in the clothing industry. Click [here](https://youtu.be/4jL1b_ZDG-s) for a demo!
 
 The app is intended to provide two key features:
  - A QR Code scanner users can use to find information about an article of clothing and it's manufacturer
